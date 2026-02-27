@@ -25,3 +25,5 @@ I am passionate about all things omics, in particular transforming large amounts
 - Scripting in Bash, Python, and R
 - Command-line usage of several bioinformatics tools: BLAST, MAFFT, Trim Galore!, SPAdes, FastQC
 - Web-interface usage of alignment and annotation tools: AliView, MEGA, MITOS, GeSeq
+
+![Stats](https://github-readme-stats.vercel.app/api?username=rmbenn)
