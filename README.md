@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About Me 
+# About Me 🐙🖥️
 I'm a graduate student pursuing a Master's Degree in Biology with the Kocot Lab at the University of Alabama. My research focuses on species descriptions of Solenogastres, an understudied class of benthic aplacophoran (shell-less) mollusks. This involves an integrative approach, combining morphological techniques (histology, SEM, stereo microscopy) with molecular ones (DNA extractions, barcoding, phylogenetic analysis).
 
 I am passionate about all things omics, in particular transforming large amounts data generated in the wet lab into clear, communicable discoveries through computational analysis.
+
+- Technical Skills:
+    - test
